@@ -53,7 +53,7 @@
         <mxCell id="HysEK0O2Zyo8wthjc6Jr-30" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;改进主成分分析法增强相位&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1063" y="540" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HysEK0O2Zyo8wthjc6Jr-31" value="信号预处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-31" value="&lt;font color=&quot;#fc0303&quot;&gt;信号预处理&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="780" y="510" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HysEK0O2Zyo8wthjc6Jr-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
