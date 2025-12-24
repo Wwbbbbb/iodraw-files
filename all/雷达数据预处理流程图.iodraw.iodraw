@@ -13,6 +13,117 @@
         <mxCell id="HysEK0O2Zyo8wthjc6Jr-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="590" y="270" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=18;" edge="1" parent="1" source="HysEK0O2Zyo8wthjc6Jr-6" target="HysEK0O2Zyo8wthjc6Jr-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="780" y="681" width="530" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="780" y="280" width="530" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=18;" edge="1" parent="1" source="HysEK0O2Zyo8wthjc6Jr-9" target="HysEK0O2Zyo8wthjc6Jr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="780" y="440" width="530" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="HysEK0O2Zyo8wthjc6Jr-11" target="HysEK0O2Zyo8wthjc6Jr-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px ; letter-spacing: 0.13936px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;b&gt;均值相消&lt;br&gt;静目标滤除&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="813" y="460" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-12" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot; face=&quot;Times New Roman&quot;&gt;TFDS-CFAR&lt;br&gt;尖峰毛刺去除&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="813" y="560" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=18;" edge="1" parent="1" source="HysEK0O2Zyo8wthjc6Jr-14" target="HysEK0O2Zyo8wthjc6Jr-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;距离仓选择&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1153" y="460" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=18;" edge="1" parent="1" source="HysEK0O2Zyo8wthjc6Jr-16" target="HysEK0O2Zyo8wthjc6Jr-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-16" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;扩展相位差分信号TFDS计算&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="983" y="560" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=18;" edge="1" parent="1" source="HysEK0O2Zyo8wthjc6Jr-18" target="HysEK0O2Zyo8wthjc6Jr-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-18" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px&quot;&gt;线性解调&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="983" y="460" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=18;" edge="1" parent="1" source="HysEK0O2Zyo8wthjc6Jr-20" target="HysEK0O2Zyo8wthjc6Jr-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;拍频信号&lt;br&gt;上包络提取&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="813" y="702" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;心率输出&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="980" y="921" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="HysEK0O2Zyo8wthjc6Jr-23" target="HysEK0O2Zyo8wthjc6Jr-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-23" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;color: rgb(17 , 17 , 17) ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;雷达回波&lt;br&gt;ADC信号&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="810" y="310" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-24" value="&lt;div&gt;&lt;font color=&quot;#111111&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;b&gt;快-慢时间维&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#111111&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;b&gt;雷达矩阵生成&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="310" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="HysEK0O2Zyo8wthjc6Jr-26" target="HysEK0O2Zyo8wthjc6Jr-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-26" value="&lt;font color=&quot;#111111&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;b&gt;直流分量去除&lt;br&gt;IQ信道校正&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="980" y="310" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontSize=18;" edge="1" parent="1" source="HysEK0O2Zyo8wthjc6Jr-7" target="HysEK0O2Zyo8wthjc6Jr-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-28" value="原始数据处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="700" y="330" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;fontSize=18;" edge="1" parent="1" source="HysEK0O2Zyo8wthjc6Jr-30" target="HysEK0O2Zyo8wthjc6Jr-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-30" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;胸腔距离仓&lt;br&gt;非相干累积&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1153" y="560" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-31" value="信号预处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="700" y="530" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-32" value="OPEVME" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="700" y="776" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=18;" edge="1" parent="1" source="HysEK0O2Zyo8wthjc6Jr-34" target="HysEK0O2Zyo8wthjc6Jr-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-34" value="&lt;b style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: 18px&quot;&gt;希尔伯特变换&lt;br&gt;解析函数生成&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="983" y="702" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=18;" edge="1" parent="1" source="HysEK0O2Zyo8wthjc6Jr-36" target="HysEK0O2Zyo8wthjc6Jr-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-36" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;带宽约束因子&lt;br&gt;中心频率选择&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1153" y="800" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=18;" edge="1" parent="1" source="HysEK0O2Zyo8wthjc6Jr-38" target="HysEK0O2Zyo8wthjc6Jr-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-38" value="&lt;b style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: 18px&quot;&gt;VME寻优迭代&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="983" y="800" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-39" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;对比峰值能量比&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="813" y="800" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontSize=18;" edge="1" parent="1" source="HysEK0O2Zyo8wthjc6Jr-41" target="HysEK0O2Zyo8wthjc6Jr-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HysEK0O2Zyo8wthjc6Jr-41" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;约束IMF&lt;br&gt;目标函数生成&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1153" y="702" width="130" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
