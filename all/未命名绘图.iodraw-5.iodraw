@@ -30,6 +30,9 @@
         <mxCell id="g49vLmZwZeOz7S8VMPw5-32" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;确定主距离仓&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="215" y="121" width="150" height="56" as="geometry" />
         </mxCell>
+        <mxCell id="g49vLmZwZeOz7S8VMPw5-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g49vLmZwZeOz7S8VMPw5-36" target="g49vLmZwZeOz7S8VMPw5-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="g49vLmZwZeOz7S8VMPw5-36" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;相邻距离仓&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;相关性筛选&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="215" y="220" width="150" height="56" as="geometry" />
         </mxCell>
