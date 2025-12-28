@@ -12,11 +12,13 @@
             <mxPoint x="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g49vLmZwZeOz7S8VMPw5-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g49vLmZwZeOz7S8VMPw5-24" target="g49vLmZwZeOz7S8VMPw5-45">
+        <mxCell id="g49vLmZwZeOz7S8VMPw5-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="530" as="sourcePoint" />
+            <mxPoint x="215" y="167" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="140" y="566" />
-              <mxPoint x="140" y="168" />
+              <mxPoint x="140" y="530" />
+              <mxPoint x="140" y="167" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -26,7 +28,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g49vLmZwZeOz7S8VMPw5-24" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;整段信号处理完毕？&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="525" width="230" height="80" as="geometry" />
+          <mxGeometry x="290" y="491" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="g49vLmZwZeOz7S8VMPw5-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g49vLmZwZeOz7S8VMPw5-27" target="g49vLmZwZeOz7S8VMPw5-45">
           <mxGeometry relative="1" as="geometry" />
