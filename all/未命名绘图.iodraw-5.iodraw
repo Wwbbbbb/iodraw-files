@@ -13,7 +13,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g49vLmZwZeOz7S8VMPw5-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g49vLmZwZeOz7S8VMPw5-24" target="g49vLmZwZeOz7S8VMPw5-32">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="155" y="530" />
+              <mxPoint x="155" y="140" />
+              <mxPoint x="215" y="140" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="g49vLmZwZeOz7S8VMPw5-43" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;否&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="g49vLmZwZeOz7S8VMPw5-42">
           <mxGeometry x="0.0185" y="5" relative="1" as="geometry">
