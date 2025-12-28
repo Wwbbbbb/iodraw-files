@@ -16,6 +16,9 @@
         <mxCell id="g49vLmZwZeOz7S8VMPw5-30" value="&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 18px;&quot;&gt;输出相位信号&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="500" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="g49vLmZwZeOz7S8VMPw5-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
