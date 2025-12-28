@@ -88,8 +88,8 @@
         <mxCell id="g49vLmZwZeOz7S8VMPw5-52" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;相位极性统一&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="431" y="345" width="150" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="g49vLmZwZeOz7S8VMPw5-56" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#add1ff&quot; style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;C-PCA&lt;/font&gt;&lt;/b&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#add1ff&quot; style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;算法&lt;/font&gt;&lt;/b&gt;&lt;/blockquote&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="130" width="120" height="30" as="geometry" />
+        <mxCell id="g49vLmZwZeOz7S8VMPw5-56" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#add1ff&quot; style=&quot;font-size: 24px;&quot; face=&quot;Times New Roman&quot;&gt;C-PCA&lt;/font&gt;&lt;/b&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;b&gt;&lt;font size=&quot;3&quot; color=&quot;#add1ff&quot; style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;算法&lt;/font&gt;&lt;/b&gt;&lt;/blockquote&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="130" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
