@@ -61,6 +61,9 @@
         <mxCell id="g49vLmZwZeOz7S8VMPw5-40" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;矩阵P主成分分析&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="215" y="516" width="150" height="56" as="geometry" />
         </mxCell>
+        <mxCell id="g49vLmZwZeOz7S8VMPw5-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g49vLmZwZeOz7S8VMPw5-45" target="g49vLmZwZeOz7S8VMPw5-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="g49vLmZwZeOz7S8VMPw5-45" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;信号分段&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="215" y="140" width="150" height="56" as="geometry" />
         </mxCell>
