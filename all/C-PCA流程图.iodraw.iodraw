@@ -94,8 +94,8 @@
         <mxCell id="g49vLmZwZeOz7S8VMPw5-56" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#69a4f2&quot; style=&quot;font-size: 24px;&quot; face=&quot;Times New Roman&quot;&gt;C-PCA&lt;/font&gt;&lt;/b&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#69a4f2&quot; style=&quot;font-size: 24px;&quot; face=&quot;Times New Roman&quot;&gt;算法&lt;/font&gt;&lt;/b&gt;&lt;/blockquote&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="570" y="241" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g49vLmZwZeOz7S8VMPw5-58" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#69a4f2&quot; style=&quot;font-size: 24px;&quot; face=&quot;Times New Roman&quot;&gt;C-PCA&lt;/font&gt;&lt;/b&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#69a4f2&quot; style=&quot;font-size: 24px;&quot; face=&quot;Times New Roman&quot;&gt;算法&lt;/font&gt;&lt;/b&gt;&lt;/blockquote&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="580" y="251" width="150" height="60" as="geometry" />
+        <mxCell id="g49vLmZwZeOz7S8VMPw5-58" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;font color=&quot;#b2eaae&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;滑窗法&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/blockquote&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="440" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
