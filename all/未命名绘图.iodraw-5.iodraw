@@ -42,7 +42,7 @@
         <mxCell id="g49vLmZwZeOz7S8VMPw5-38" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;信号矩阵P构建&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="215" y="297" width="150" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="g49vLmZwZeOz7S8VMPw5-40" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;信号矩阵P构建&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="g49vLmZwZeOz7S8VMPw5-40" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;矩阵P主成分分析&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="215" y="390" width="150" height="56" as="geometry" />
         </mxCell>
       </root>
