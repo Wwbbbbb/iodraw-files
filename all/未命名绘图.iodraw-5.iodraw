@@ -89,7 +89,7 @@
           <mxGeometry x="431" y="345" width="150" height="56" as="geometry" />
         </mxCell>
         <mxCell id="g49vLmZwZeOz7S8VMPw5-56" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;C-PCA&lt;/font&gt;&lt;/b&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;算法&lt;/font&gt;&lt;/b&gt;&lt;/blockquote&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="565" y="240" width="120" height="30" as="geometry" />
+          <mxGeometry x="580" y="70" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
