@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="H_oNBSvRuffYXK4AOXmM-35" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="150" y="110" width="200" height="230" as="geometry" />
+        </mxCell>
         <mxCell id="H_oNBSvRuffYXK4AOXmM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="wnt6cWw9PV6Y0CwvJOwQ-1" target="wnt6cWw9PV6Y0CwvJOwQ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -72,9 +75,6 @@
         </mxCell>
         <mxCell id="H_oNBSvRuffYXK4AOXmM-29" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;毛刺点替换&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="860" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="H_oNBSvRuffYXK4AOXmM-35" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="210" y="60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
