@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wnt6cWw9PV6Y0CwvJOwQ-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;原始相位信号&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="20" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="19" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H_oNBSvRuffYXK4AOXmM-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="wnt6cWw9PV6Y0CwvJOwQ-2" target="wnt6cWw9PV6Y0CwvJOwQ-3">
           <mxGeometry relative="1" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wnt6cWw9PV6Y0CwvJOwQ-3" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;背景噪声计算&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="382.75" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H_oNBSvRuffYXK4AOXmM-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="H_oNBSvRuffYXK4AOXmM-4" target="H_oNBSvRuffYXK4AOXmM-7">
           <mxGeometry relative="1" as="geometry" />
