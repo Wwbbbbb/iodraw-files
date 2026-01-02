@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="H_oNBSvRuffYXK4AOXmM-37" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="360" y="60" width="470" height="380" as="geometry" />
+        </mxCell>
         <mxCell id="H_oNBSvRuffYXK4AOXmM-35" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="150" y="190" width="200" height="170" as="geometry" />
         </mxCell>
@@ -78,9 +81,6 @@
         </mxCell>
         <mxCell id="H_oNBSvRuffYXK4AOXmM-36" value="&lt;font color=&quot;#76c95e&quot; style=&quot;font-size: 24px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;FDP算子&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="177" y="310" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="H_oNBSvRuffYXK4AOXmM-37" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="310" y="290" width="200" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
