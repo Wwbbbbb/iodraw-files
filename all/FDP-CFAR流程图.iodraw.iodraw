@@ -27,7 +27,7 @@
         </mxCell>
         <mxCell id="H_oNBSvRuffYXK4AOXmM-33" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;小于阈值&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="H_oNBSvRuffYXK4AOXmM-20">
           <mxGeometry x="-0.6358" y="5" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="5" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H_oNBSvRuffYXK4AOXmM-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="H_oNBSvRuffYXK4AOXmM-4" target="H_oNBSvRuffYXK4AOXmM-8">
