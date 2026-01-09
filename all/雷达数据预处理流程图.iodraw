@@ -80,6 +80,9 @@
         <mxCell id="mn1mzRGLXhbcXprxkBLo-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px ; letter-spacing: 0.13936px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;b&gt;VME提取&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px ; letter-spacing: 0.13936px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;b&gt;高阶谐波&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="585" y="560" width="130" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="mn1mzRGLXhbcXprxkBLo-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="mn1mzRGLXhbcXprxkBLo-2" target="mn1mzRGLXhbcXprxkBLo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mn1mzRGLXhbcXprxkBLo-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px; letter-spacing: 0.13936px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;获取IMF包络&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="753" y="560" width="130" height="70" as="geometry" />
         </mxCell>
