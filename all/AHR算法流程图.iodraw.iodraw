@@ -23,16 +23,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BpPrltcSnCZoupTYDDLj-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;v-SSMD降噪&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="290" y="590" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BpPrltcSnCZoupTYDDLj-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="BpPrltcSnCZoupTYDDLj-13" target="BpPrltcSnCZoupTYDDLj-12">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="290" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BpPrltcSnCZoupTYDDLj-13" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;计算包络信号平稳度&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="290" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BpPrltcSnCZoupTYDDLj-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;心率估计&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="290" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BpPrltcSnCZoupTYDDLj-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="BpPrltcSnCZoupTYDDLj-15" target="BpPrltcSnCZoupTYDDLj-13">
           <mxGeometry relative="1" as="geometry" />
@@ -41,7 +38,7 @@
           <mxGeometry x="290" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BpPrltcSnCZoupTYDDLj-23" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;AOA迭代完成？&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="540" y="490" width="210" height="80" as="geometry" />
+          <mxGeometry x="240" y="550" width="210" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
