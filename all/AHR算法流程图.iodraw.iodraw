@@ -40,7 +40,7 @@
           <mxGeometry x="290" y="613" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BpPrltcSnCZoupTYDDLj-15" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;计算IMF包络信号平稳度&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="290" y="282" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="284" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BpPrltcSnCZoupTYDDLj-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="BpPrltcSnCZoupTYDDLj-23" target="BpPrltcSnCZoupTYDDLj-12">
           <mxGeometry relative="1" as="geometry" />
@@ -73,7 +73,7 @@
           <mxGeometry x="421" y="223" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BpPrltcSnCZoupTYDDLj-35" value="&lt;font color=&quot;#5ea6c5&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;AOA寻优&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="455" y="534" width="105" height="30" as="geometry" />
+          <mxGeometry x="421" y="534" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
