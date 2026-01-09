@@ -98,7 +98,7 @@
         <mxCell id="mn1mzRGLXhbcXprxkBLo-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px; letter-spacing: 0.13936px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;v-SSMD&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px; letter-spacing: 0.13936px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;降噪处理&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="585" y="660" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="mn1mzRGLXhbcXprxkBLo-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px; letter-spacing: 0.13936px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;心率估计&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="mn1mzRGLXhbcXprxkBLo-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px; letter-spacing: 0.13936px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;心跳信号&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="413" y="660" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
