@@ -19,7 +19,7 @@
         <mxCell id="BpPrltcSnCZoupTYDDLj-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;AOA&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="90" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BpPrltcSnCZoupTYDDLj-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;v-SSMD&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="BpPrltcSnCZoupTYDDLj-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;v-SSMD降噪&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="290" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BpPrltcSnCZoupTYDDLj-13" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
