@@ -57,7 +57,7 @@
           <mxGeometry x="300" y="390" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HysEK0O2Zyo8wthjc6Jr-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;dashed=1;strokeWidth=2;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="380" y="540" width="530" height="200" as="geometry" />
+          <mxGeometry x="380" y="540" width="530" height="210" as="geometry" />
         </mxCell>
         <mxCell id="mn1mzRGLXhbcXprxkBLo-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="HysEK0O2Zyo8wthjc6Jr-43" target="mn1mzRGLXhbcXprxkBLo-1">
           <mxGeometry relative="1" as="geometry" />
@@ -84,7 +84,7 @@
           <mxGeometry x="753" y="560" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mn1mzRGLXhbcXprxkBLo-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px; letter-spacing: 0.13936px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;获取IMF包络&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="753" y="640" width="130" height="70" as="geometry" />
+          <mxGeometry x="753" y="660" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
