@@ -54,14 +54,13 @@
         <mxCell id="BpPrltcSnCZoupTYDDLj-35" value="&lt;font color=&quot;#5ea6c5&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;AOA寻优&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="680" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BpPrltcSnCZoupTYDDLj-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BpPrltcSnCZoupTYDDLj-23" target="BpPrltcSnCZoupTYDDLj-2">
+        <mxCell id="BpPrltcSnCZoupTYDDLj-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="BpPrltcSnCZoupTYDDLj-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="671" as="sourcePoint" />
-            <mxPoint x="210" y="701" as="targetPoint" />
+            <mxPoint x="220" y="530" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="555" y="590" />
-              <mxPoint x="210" y="590" />
-              <mxPoint x="210" y="530" />
+              <mxPoint x="564" y="590" />
+              <mxPoint x="220" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
